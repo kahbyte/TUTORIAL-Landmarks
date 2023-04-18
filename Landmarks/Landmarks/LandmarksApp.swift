@@ -17,4 +17,5 @@ struct LandmarksApp: App {
                 .environmentObject(modelData)
         }
     }
+    
 }
